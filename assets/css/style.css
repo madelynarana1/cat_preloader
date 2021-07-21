@@ -44,7 +44,6 @@ body,html{
     text-align: justify;
     padding: 4px;
 }
-.content>iframe{
-    width: 350px;
-    height: 350px;
+.content>img{
+    width: 100%;
 }
